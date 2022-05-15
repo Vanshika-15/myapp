@@ -1,0 +1,149 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/ndf-0.1.4.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size_in_bytes": 4
+    },
+    {
+      "_path": "site-packages/ndf-0.1.4.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "385809d26e02485c2bd85bb128cde289dec3158e3ef8535a0841397dfdacfa97",
+      "size_in_bytes": 1068
+    },
+    {
+      "_path": "site-packages/ndf-0.1.4.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "ab3098d8d4cb27d7ec9bc21b778322a68c770834063a104b64a2638a81f73d46",
+      "size_in_bytes": 886
+    },
+    {
+      "_path": "site-packages/ndf-0.1.4.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "b09653f59e3b33448b53aad2a391eb70b45db753e4220ae30e8469eea1b5f2a7",
+      "size_in_bytes": 2718
+    },
+    {
+      "_path": "site-packages/ndf-0.1.4.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "baf39fb0fb9ef4a5ce2ee9816955f321a536d8664d87a644231a3193a30dce7c",
+      "size_in_bytes": 93
+    },
+    {
+      "_path": "site-packages/ndf-0.1.4.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "d49b6c0e1fce95384f36cd93b513108321c3f1222e82d865d40455732168819a",
+      "size_in_bytes": 4
+    },
+    {
+      "_path": "site-packages/ndf/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/ndf/example_models/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "32e626b02105cabb43d17a5b0c39896d0754a6bd4bac40c5aa95fa4172b19aa8",
+      "size_in_bytes": 52
+    },
+    {
+      "_path": "site-packages/ndf/example_models/squeezenet.py",
+      "path_type": "hardlink",
+      "sha256": "3f197e7ec053558f8d543a6e9bd0e24e7d459efd13e56f059340d6ac289db9e5",
+      "size_in_bytes": 2773
+    },
+    {
+      "_path": "site-packages/ndf/example_models/weights/squeezenet_weights.pkl",
+      "path_type": "hardlink",
+      "sha256": "f286bbf493e6389979ed3036f960f4404e0079acdb92156500df0d4a43d085f1",
+      "size_in_bytes": 4945361
+    },
+    {
+      "_path": "site-packages/ndf/layers/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5f61fc5dc398d7b7a8ba81775d832c1f92104d5792e1182c6177f5255864a6c",
+      "size_in_bytes": 208
+    },
+    {
+      "_path": "site-packages/ndf/layers/activations.py",
+      "path_type": "hardlink",
+      "sha256": "4e5a763825f69643dc06f233d49fe570f9a682a7124685e2632139f5ca55468c",
+      "size_in_bytes": 352
+    },
+    {
+      "_path": "site-packages/ndf/layers/convolutions.py",
+      "path_type": "hardlink",
+      "sha256": "a941b7493b3acdee701d82ac0459e33c68ccf6a96c0e9fef33370f5ab85d2518",
+      "size_in_bytes": 3107
+    },
+    {
+      "_path": "site-packages/ndf/layers/input.py",
+      "path_type": "hardlink",
+      "sha256": "f95133e6ce42ad3ad367d7442682ad4bf91197d4e7c6436dbcfd95bf7de51d27",
+      "size_in_bytes": 342
+    },
+    {
+      "_path": "site-packages/ndf/layers/layer.py",
+      "path_type": "hardlink",
+      "sha256": "99a04bb9015a942c129e7e5d1b965a0efe5022d63d7e12dbba618d772f05d7ee",
+      "size_in_bytes": 1345
+    },
+    {
+      "_path": "site-packages/ndf/layers/merge.py",
+      "path_type": "hardlink",
+      "sha256": "8397fd977c4e1a81b897959c7ca05e953fc39e8a356f84b60b62f84ce429fa6e",
+      "size_in_bytes": 308
+    },
+    {
+      "_path": "site-packages/ndf/layers/others.py",
+      "path_type": "hardlink",
+      "sha256": "34f5e5d11cc59218ca6245d548acc8b00412efafcc35e99d31085e0e04e39e59",
+      "size_in_bytes": 182
+    },
+    {
+      "_path": "site-packages/ndf/layers/pooling.py",
+      "path_type": "hardlink",
+      "sha256": "704c67e0be499b038eb17f971e42d11664941f6d872573a2893aaa46bdb2c562",
+      "size_in_bytes": 2268
+    },
+    {
+      "_path": "site-packages/ndf/model.py",
+      "path_type": "hardlink",
+      "sha256": "6436c677bf280125e25a9085f1f39331b4a0eaf85b676a73ea75fa844bd589ec",
+      "size_in_bytes": 774
+    },
+    {
+      "_path": "site-packages/ndf/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "36d05bb38521194faaadc42698dbb0076222e2cbcbbb7ccc14196e847c64e713",
+      "size_in_bytes": 351
+    },
+    {
+      "_path": "site-packages/ndf/tests/book-2020460_640.jpg",
+      "path_type": "hardlink",
+      "sha256": "5d6ba1d48f7a3aa9fc195b213ac7f03755e821f479d1be39d5fa61b3aca4e005",
+      "size_in_bytes": 95886
+    },
+    {
+      "_path": "site-packages/ndf/tests/test_complete.py",
+      "path_type": "hardlink",
+      "sha256": "b10b7bdecf3ced3abd6d08367483f551a05c8f9ca6be5dfac5dccfc062b838e8",
+      "size_in_bytes": 840
+    },
+    {
+      "_path": "site-packages/ndf/utils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/ndf/utils/image_to_col.py",
+      "path_type": "hardlink",
+      "sha256": "f7c01b590c69d499f26baca0afa2dc1ddd53222b947bedf33a27d08f10e98c7c",
+      "size_in_bytes": 1336
+    }
+  ],
+  "paths_version": 1
+}

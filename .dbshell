@@ -1,0 +1,12 @@
+show dbs
+show dbs
+show dbs
+db.createCollection('courses')
+db.courses.insertOne({ name: "Mean", price: 50 })
+show dbs
+db.courses.findOne()
+db.createCollection('posts')
+ok
+use nodemongo
+db.createCollection('posts')
+mongoose

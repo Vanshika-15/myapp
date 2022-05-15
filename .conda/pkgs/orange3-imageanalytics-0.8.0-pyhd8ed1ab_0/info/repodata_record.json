@@ -1,0 +1,33 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cachecontrol",
+    "lockfile",
+    "ndf >=0.1.4",
+    "numpy >=1.16.*",
+    "orange-widget-base",
+    "orange3 >=3.31.1",
+    "pillow >=6.2.0",
+    "python >=3.7",
+    "requests",
+    "scipy"
+  ],
+  "features": "",
+  "fn": "orange3-imageanalytics-0.8.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "GPL-3.0-only",
+  "license_family": "GPL",
+  "md5": "5fda99e347b5f74d9292ee2ffd9ea72a",
+  "name": "orange3-imageanalytics",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "703ea5b875f12134f1abf19005621e710e7f938e7e3d772308f0a76c9066e64f",
+  "size": 5349215,
+  "subdir": "noarch",
+  "timestamp": 1646054712627,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/orange3-imageanalytics-0.8.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.8.0"
+}

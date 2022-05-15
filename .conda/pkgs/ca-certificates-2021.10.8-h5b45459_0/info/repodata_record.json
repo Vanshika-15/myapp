@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64",
+  "build": "h5b45459_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [],
+  "features": "",
+  "fn": "ca-certificates-2021.10.8-h5b45459_0.tar.bz2",
+  "license": "ISC",
+  "md5": "2ddd48c9b52f7f65361b9645b2c5d370",
+  "name": "ca-certificates",
+  "platform": "win32",
+  "sha256": "5885d65c1861fe0575982fd431f9e7dd4ab54f574844e7ac1072c5da8a42a1fc",
+  "size": 179782,
+  "subdir": "win-64",
+  "timestamp": 1633733356356,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2021.10.8-h5b45459_0.tar.bz2",
+  "version": "2021.10.8"
+}

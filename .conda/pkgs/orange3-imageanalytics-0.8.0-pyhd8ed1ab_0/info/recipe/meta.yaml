@@ -1,0 +1,78 @@
+# This file created by conda-build 3.21.8
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Mon Feb 28 13:22:07 2022
+# ------------------------------------------------
+
+package:
+  name: orange3-imageanalytics
+  version: 0.8.0
+source:
+  fn: Orange3-ImageAnalytics-0.8.0.tar.gz
+  sha256: 3e033788375f43cb38a79cfc3087fc97321098c35f5bb6235bc01bd96c424ef8
+  url: https://pypi.io/packages/source/O/Orange3-ImageAnalytics/Orange3-ImageAnalytics-0.8.0.tar.gz
+build:
+  noarch: python
+  number: '0'
+  script: /home/conda/feedstock_root/build_artifacts/orange3-imageanalytics_1646054601584/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol/bin/python
+    -m pip install . --no-deps -vv
+  string: pyhd8ed1ab_0
+requirements:
+  host:
+    - _libgcc_mutex 0.1 conda_forge
+    - _openmp_mutex 4.5 1_gnu
+    - bzip2 1.0.8 h7f98852_4
+    - ca-certificates 2021.10.8 ha878542_0
+    - ld_impl_linux-64 2.36.1 hea4e1c9_2
+    - libffi 3.4.2 h7f98852_5
+    - libgcc-ng 11.2.0 h1d223b6_12
+    - libgomp 11.2.0 h1d223b6_12
+    - libnsl 2.0.0 h7f98852_0
+    - libuuid 2.32.1 h7f98852_1000
+    - libzlib 1.2.11 h36c2ea0_1013
+    - ncurses 6.3 h9c3ff4c_0
+    - openssl 3.0.0 h7f98852_2
+    - pip 22.0.3 pyhd8ed1ab_0
+    - python 3.10.2 hc74c709_3_cpython
+    - python_abi 3.10 2_cp310
+    - readline 8.1 h46c0cb4_0
+    - setuptools 60.9.3 py310hff52083_0
+    - sqlite 3.37.0 h9cd32fc_0
+    - tk 8.6.12 h27826a3_0
+    - tzdata 2021e he74cb21_0
+    - wheel 0.37.1 pyhd8ed1ab_0
+    - xz 5.2.5 h516909a_1
+    - zlib 1.2.11 h36c2ea0_1013
+  run:
+    - cachecontrol
+    - lockfile
+    - ndf >=0.1.4
+    - numpy >=1.16.*
+    - orange-widget-base
+    - orange3 >=3.31.1
+    - pillow >=6.2.0
+    - python >=3.7
+    - requests
+    - scipy
+test:
+  imports:
+    - orangecontrib.imageanalytics
+about:
+  description: 'Orange3 Image Analytics is an add-on for the Orange3 data mining suite.
+
+    It provides extensions for importing/creating labeled image data sets and
+
+    embedding them through a variety of pre-trained deep neural networks.
+
+    '
+  dev_url: https://github.com/biolab/orange3-imageanalytics
+  doc_url: http://orange3-imageanalytics.readthedocs.io
+  home: https://github.com/biolab/orange3-imageanalytics
+  license: GPL-3.0-only
+  license_family: GPL
+  license_file: LICENSE.txt
+  summary: Orange3 add-on for dealing with image related tasks
+extra:
+  copy_test_source_files: true
+  final: true
+  recipe-maintainers:
+    - primozgodec

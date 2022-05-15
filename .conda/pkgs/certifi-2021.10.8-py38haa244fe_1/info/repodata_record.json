@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64",
+  "build": "py38haa244fe_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "features": "",
+  "fn": "certifi-2021.10.8-py38haa244fe_1.tar.bz2",
+  "license": "ISC",
+  "md5": "0e59c8bd41496c8fae9e4a523257b355",
+  "name": "certifi",
+  "platform": "win32",
+  "sha256": "95935b05c87dfbb7411364efeddc4b056fc13911cb473d9db31fe0acef74fb8f",
+  "size": 148597,
+  "subdir": "win-64",
+  "timestamp": 1635794157341,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/certifi-2021.10.8-py38haa244fe_1.tar.bz2",
+  "version": "2021.10.8"
+}

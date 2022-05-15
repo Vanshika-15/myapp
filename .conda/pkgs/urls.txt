@@ -1,0 +1,5 @@
+https://conda.anaconda.org/conda-forge/win-64/openssl-1.1.1l-h8ffe710_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/certifi-2021.10.8-py38haa244fe_1.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2021.10.8-h5b45459_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/ndf-0.1.4-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/orange3-imageanalytics-0.8.0-pyhd8ed1ab_0.tar.bz2

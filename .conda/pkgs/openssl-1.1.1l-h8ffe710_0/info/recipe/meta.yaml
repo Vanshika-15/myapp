@@ -1,0 +1,60 @@
+# This file created by conda-build 3.21.4
+# ------------------------------------------------
+
+package:
+  name: openssl
+  version: 1.1.1l
+source:
+  patches:
+    - patches/0001-Don-t-use-USE_BCRYPTGENRANDOM-for-VS-older-than-2015.patch
+    - patches/0002-Darwin-platform-allows-to-build-on-releases-before-Y.patch
+  sha256: 0b7a3e5e59c34827fe0c3a74b7ec8baef302b98fa80088d7f9153aa16fa76bd1
+  url: http://www.openssl.org/source/openssl-1.1.1l.tar.gz
+build:
+  ignore_run_exports_from:
+    - perl *
+  number: 0
+  run_exports:
+    - openssl >=1.1.1l,<1.1.2a
+  string: h8ffe710_0
+requirements:
+  build:
+    - m2w64-gcc-libgfortran 5.3.0 6
+    - m2w64-gcc-libs 5.3.0 7
+    - m2w64-gcc-libs-core 5.3.0 7
+    - m2w64-gmp 6.1.0 2
+    - m2w64-libwinpthread-git 5.0.0.4634.697f757 2
+    - make 4.3 h3d2af85_1
+    - msys2-conda-epoch 20160418 1
+    - vs2017_win-64 19.16.27038 h2e3bad8_2
+    - vswhere 2.8.4 h57928b3_0
+  host:
+    - perl 5.32.1.1 0_h57928b3_strawberry
+    - ucrt 10.0.20348.0 h57928b3_0
+    - vc 14.2 hb210afc_5
+    - vs2015_runtime 14.29.30037 h902a5da_5
+  run:
+    - ca-certificates
+    - vc >=14.1,<15.0a0
+    - vs2015_runtime >=14.16.27012
+test:
+  commands:
+    - copy NUL checksum.txt
+    - openssl sha256 checksum.txt
+about:
+  dev_url: https://github.com/openssl/openssl
+  doc_url: https://www.openssl.org/docs/man1.1.1/
+  home: http://www.openssl.org/
+  license: OpenSSL
+  license_family: Apache
+  license_file: LICENSE
+  summary: OpenSSL is an open-source implementation of the SSL and TLS protocols
+extra:
+  copy_test_source_files: true
+  final: true
+  recipe-maintainers:
+    - carlodri
+    - jakirkham
+    - msarahan
+    - ocefpaf
+    - pelson

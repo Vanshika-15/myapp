@@ -1,0 +1,869 @@
+{
+  "paths": [
+    {
+      "_path": "help/orange3-imageanalytics/.buildinfo",
+      "path_type": "hardlink",
+      "sha256": "9ffa507f855b51d9fcdc5fa60e0a060b49a0c1bf4d1588c3246f8696626ba580",
+      "size_in_bytes": 230
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImageEmbedding-Example1.png",
+      "path_type": "hardlink",
+      "sha256": "b9c200e78a28a82a04ae3b351993da0d96170d527dcc29252161b4d0a5a3e137",
+      "size_in_bytes": 227359
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImageEmbedding-Example2.png",
+      "path_type": "hardlink",
+      "sha256": "df3ad2039ba310a7a4886325f3afbb4b4dba32698d4f96b0c62115d1904144ef",
+      "size_in_bytes": 79682
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImageEmbedding-stamped.png",
+      "path_type": "hardlink",
+      "sha256": "a2ccb744dd31c58b6473347f7f422c36ce12e5d1fd796ccdc40191387207652b",
+      "size_in_bytes": 8441
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImageGrid-Example.png",
+      "path_type": "hardlink",
+      "sha256": "ff1ef96ffec6b62f232740d2e63f6bcb4be1de801c22b8a7f3d33d81e33ae072",
+      "size_in_bytes": 74310
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImageGrid-stamped.png",
+      "path_type": "hardlink",
+      "sha256": "a500c32fc6ff334542fedeb5faa62e83534492a2ac4c18ad869e30395a80aeb8",
+      "size_in_bytes": 51873
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImageViewer-stamped.png",
+      "path_type": "hardlink",
+      "sha256": "dbecea418ff1b53f2490af75cf1b742a4aef095dd727676c3971d731dd9bcb8a",
+      "size_in_bytes": 89158
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImportImages-Example.png",
+      "path_type": "hardlink",
+      "sha256": "064ad8613d70297191909dfe8030eb2175949240879096f569b23ed2e2415521",
+      "size_in_bytes": 160938
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImportImages-class.png",
+      "path_type": "hardlink",
+      "sha256": "622a5db5c9e2987ba011465a2b06d62674cd49f275d9a15c25e4606eac5b8f69",
+      "size_in_bytes": 10513
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/ImportImages-stamped.png",
+      "path_type": "hardlink",
+      "sha256": "6bdcc383c3740bc0d698fd97a728ef119a0f1ee6d349d3e86d3a774d07053230",
+      "size_in_bytes": 10025
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/SaveImages-Example.png",
+      "path_type": "hardlink",
+      "sha256": "176924d7a70acb1b85517fe3f564750ffc07d548375c41be4516e49c21719e2f",
+      "size_in_bytes": 73586
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/SaveImages.png",
+      "path_type": "hardlink",
+      "sha256": "8c137b57e428e4cc909c88ff79eee10168d67b44fb3f1915ff603f6be66e4e85",
+      "size_in_bytes": 10268
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/header-example.png",
+      "path_type": "hardlink",
+      "sha256": "f7024d598507ccf17052a0318a2a5115e8b3563f3aba4c42aaee4da6475c7644",
+      "size_in_bytes": 51280
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/image-viewer-example1.png",
+      "path_type": "hardlink",
+      "sha256": "e1dfa9619fd6199f535b3ae0983c697ca865df75d86f00af34ec8d39637cc95f",
+      "size_in_bytes": 103417
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_images/image-viewer-example2.png",
+      "path_type": "hardlink",
+      "sha256": "ad8b5555ec5e6e9849d94f20eca5b0522ed18c4f6ad6a0ad7e4b10c17a499f60",
+      "size_in_bytes": 108042
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_modules/index.html",
+      "path_type": "hardlink",
+      "sha256": "2d8fd9b9815424287bece8fd10d0e5b48d1f44cc6e5f0c7726010a665b21b07d",
+      "size_in_bytes": 4094
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_modules/orangecontrib/imageanalytics/image_embedder.html",
+      "path_type": "hardlink",
+      "sha256": "b7f7b0b244d097a538a576ba2058b2d04e1623987f93218ec83db6cd5636f992",
+      "size_in_bytes": 46476
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/index.rst.txt",
+      "path_type": "hardlink",
+      "sha256": "20db9cd53644ac54c4baab95cfb4de1f323a2b59bb7990f12164a83efc74ecb1",
+      "size_in_bytes": 439
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/scripting/image_embedder.rst.txt",
+      "path_type": "hardlink",
+      "sha256": "835599686f522cafd44369b3863eaf7fe38f2a09f155febedfb97bb2871a6d6e",
+      "size_in_bytes": 133
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/widgets/imageembedding.md.txt",
+      "path_type": "hardlink",
+      "sha256": "8780782e352b0ab5e7ecec026cfc471b42ae809d168feb853ef86e06c517f870",
+      "size_in_bytes": 4900
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/widgets/imagegrid.md.txt",
+      "path_type": "hardlink",
+      "sha256": "f47661408dd3c6b683446b4844c31e884b08bfedbe83330926850f71e213b248",
+      "size_in_bytes": 1738
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/widgets/imageviewer.md.txt",
+      "path_type": "hardlink",
+      "sha256": "f2adb3fc2785fa34b90b4f1c80debc7a90eea09bc4d95048696fdc0002bd6d9f",
+      "size_in_bytes": 1301
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/widgets/importimages.md.txt",
+      "path_type": "hardlink",
+      "sha256": "4143e13b8b35a73fd469e0f4012e2a98a55dc85c49012537fea97a0d92b16ddb",
+      "size_in_bytes": 1705
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_sources/widgets/saveimages.md.txt",
+      "path_type": "hardlink",
+      "sha256": "7be418d451a944b8dd1dda53f814266f20d891822b1d21bb6cf1e8a04dd8afd2",
+      "size_in_bytes": 1787
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/basic.css",
+      "path_type": "hardlink",
+      "sha256": "3d3f283e5f396a314d826bbfc73990767acc15c5380674e2b3fe801e533d43be",
+      "size_in_bytes": 14667
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/badge_only.css",
+      "path_type": "hardlink",
+      "sha256": "c4050fa47d8bb6297c79811f663e6cfa32cb6b783b47eaeddd6ba50d5cf1a666",
+      "size_in_bytes": 3275
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/Roboto-Slab-Bold.woff",
+      "path_type": "hardlink",
+      "sha256": "9fec87cadbe2413b255f1ec577573a83f1ca2e1c37aa023dbebcd3a7b864636a",
+      "size_in_bytes": 87624
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/Roboto-Slab-Bold.woff2",
+      "path_type": "hardlink",
+      "sha256": "1a0c024dd1a267c52d5575469ffe8570d1e84164de7d393cf3414bafd17d7a0c",
+      "size_in_bytes": 67312
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/Roboto-Slab-Regular.woff",
+      "path_type": "hardlink",
+      "sha256": "9f32630e2c0c5135bf1e86e36cb65b3932e4410644235bc2bd995e9c7f6ff117",
+      "size_in_bytes": 86288
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/Roboto-Slab-Regular.woff2",
+      "path_type": "hardlink",
+      "sha256": "874e42222856d7af03b3f438d21d923a4280d47fe67c48510e2174a1579795ef",
+      "size_in_bytes": 66444
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/fontawesome-webfont.eot",
+      "path_type": "hardlink",
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "size_in_bytes": 165742
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/fontawesome-webfont.svg",
+      "path_type": "hardlink",
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "size_in_bytes": 444379
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/fontawesome-webfont.ttf",
+      "path_type": "hardlink",
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "size_in_bytes": 165548
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/fontawesome-webfont.woff",
+      "path_type": "hardlink",
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "size_in_bytes": 98024
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/fontawesome-webfont.woff2",
+      "path_type": "hardlink",
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "size_in_bytes": 77160
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-bold-italic.woff",
+      "path_type": "hardlink",
+      "sha256": "980c8592e5488df256192c999e92db8fd302db8cd8909b7fa266a684e37e45f8",
+      "size_in_bytes": 323344
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-bold-italic.woff2",
+      "path_type": "hardlink",
+      "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d",
+      "size_in_bytes": 193308
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-bold.woff",
+      "path_type": "hardlink",
+      "sha256": "0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e",
+      "size_in_bytes": 309728
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-bold.woff2",
+      "path_type": "hardlink",
+      "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6",
+      "size_in_bytes": 184912
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-normal-italic.woff",
+      "path_type": "hardlink",
+      "sha256": "26318a1467a5e5caf10b04cfa942d079632560cd7a29cec565fd1dc9f7ec5081",
+      "size_in_bytes": 328412
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-normal-italic.woff2",
+      "path_type": "hardlink",
+      "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc",
+      "size_in_bytes": 195704
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-normal.woff",
+      "path_type": "hardlink",
+      "sha256": "5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e",
+      "size_in_bytes": 309192
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/fonts/lato-normal.woff2",
+      "path_type": "hardlink",
+      "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f",
+      "size_in_bytes": 182708
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/css/theme.css",
+      "path_type": "hardlink",
+      "sha256": "af78284d3c7a8ab0917208ddc2a71854d4b552802104a7146f8705dca8dd88d1",
+      "size_in_bytes": 129674
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/custom.css",
+      "path_type": "hardlink",
+      "sha256": "2dd4710958cea9d590acfed98d9cf2feb3ae93935d543d9fa4e2e45dcf977dd0",
+      "size_in_bytes": 537
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/doctools.js",
+      "path_type": "hardlink",
+      "sha256": "5a001934886bdedcbabf89f6a81e8253c0c1bb47ac18e9c7b859f0fcb1d92406",
+      "size_in_bytes": 9630
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/documentation_options.js",
+      "path_type": "hardlink",
+      "sha256": "4a71fcaf3858157f908df3628f9e98f5582fd9a8e518b37dce526eb23ef736b8",
+      "size_in_bytes": 350
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/file.png",
+      "path_type": "hardlink",
+      "sha256": "5c4bc9a16aebf38c4b950f59b8e501ca36495328cb9eb622218bce9064a35e3e",
+      "size_in_bytes": 286
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/jquery-3.5.1.js",
+      "path_type": "hardlink",
+      "sha256": "416a3b2c3bf16d64f6b5b6d0f7b079df2267614dd6847fc2f3271b4409233c37",
+      "size_in_bytes": 287630
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/jquery.js",
+      "path_type": "hardlink",
+      "sha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d",
+      "size_in_bytes": 89476
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/js/badge_only.js",
+      "path_type": "hardlink",
+      "sha256": "f0a4808d04c4d55378751ac096a8376b64b1a704c82584b0ee590212cf413013",
+      "size_in_bytes": 934
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/js/html5shiv-printshiv.min.js",
+      "path_type": "hardlink",
+      "sha256": "b42a7e949a6e21d66b30fbbb4a22deafd9e0ccabc04f0fa2907fc6252fdf165f",
+      "size_in_bytes": 4370
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/js/html5shiv.min.js",
+      "path_type": "hardlink",
+      "sha256": "f6e0283561ddb33b140e14977ffad57163aa28f7e2e7ff15e51e1475b6657b60",
+      "size_in_bytes": 2734
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/js/theme.js",
+      "path_type": "hardlink",
+      "sha256": "536ad2d746e944c5570cc15badaeccc3c0582a1b66e45511fe4edce32b6da510",
+      "size_in_bytes": 5023
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/language_data.js",
+      "path_type": "hardlink",
+      "sha256": "004ad6ad7e772d6f3c61c65a7fb255e2b36d8bf583044c08ab97e7e5e6b8442d",
+      "size_in_bytes": 10854
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/minus.png",
+      "path_type": "hardlink",
+      "sha256": "47e7fc50db3699f1ca41ce9a2ffa202c00c5d1d5180c55f62ba859b1bd6cc008",
+      "size_in_bytes": 90
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/plus.png",
+      "path_type": "hardlink",
+      "sha256": "54115199b96a130cba02147c47c0deb43dcc9b9f08b5162bba8642b34980ac63",
+      "size_in_bytes": 90
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/pygments.css",
+      "path_type": "hardlink",
+      "sha256": "1dae86fdcef1cf8c69a21c8e06d2bfd945a1a314e2ec7c0585913e2a36ae022c",
+      "size_in_bytes": 4846
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/searchtools.js",
+      "path_type": "hardlink",
+      "sha256": "3b06be0c659c19566813dd5f75b7359bd87fe6a55ce1efe05ec312e84a178bcc",
+      "size_in_bytes": 16793
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/underscore-1.13.1.js",
+      "path_type": "hardlink",
+      "sha256": "cc10f799cd0f6b65f95c4012445497e5ba3cb9f51964a9468940b27bde98b487",
+      "size_in_bytes": 68420
+    },
+    {
+      "_path": "help/orange3-imageanalytics/_static/underscore.js",
+      "path_type": "hardlink",
+      "sha256": "218fb1c1fc72e9af6b866f430be2a67fa376392b4db2f4dbf32772671b6ae55c",
+      "size_in_bytes": 19530
+    },
+    {
+      "_path": "help/orange3-imageanalytics/genindex.html",
+      "path_type": "hardlink",
+      "sha256": "f49899bfdf66f9911985569c9b211f6070dc9111e2c23bde8b1efc7e47fa4320",
+      "size_in_bytes": 7220
+    },
+    {
+      "_path": "help/orange3-imageanalytics/index.html",
+      "path_type": "hardlink",
+      "sha256": "af1e8e054d34722db9dc376f7c5d83cd72018f932c13a4da68b2b3f5af585490",
+      "size_in_bytes": 6243
+    },
+    {
+      "_path": "help/orange3-imageanalytics/objects.inv",
+      "path_type": "hardlink",
+      "sha256": "e3860d8afb53c9f8636b4c77ac0686a241806758797f4c97c8a6e8e6fd92ba76",
+      "size_in_bytes": 517
+    },
+    {
+      "_path": "help/orange3-imageanalytics/scripting/image_embedder.html",
+      "path_type": "hardlink",
+      "sha256": "4969fdbc0826742ae708c7fec5ce7c68e7d1f0fc47794609ef56279ae1dac6bb",
+      "size_in_bytes": 19877
+    },
+    {
+      "_path": "help/orange3-imageanalytics/search.html",
+      "path_type": "hardlink",
+      "sha256": "f2bad3b2f5a79b5bd7b20083fba206955ad4aa975263435ab592ba945386b0f9",
+      "size_in_bytes": 4277
+    },
+    {
+      "_path": "help/orange3-imageanalytics/searchindex.js",
+      "path_type": "hardlink",
+      "sha256": "b84c6f63ba9fb3d1c0223f71c04fed27582c43db8c604e4f681a3078b4f42971",
+      "size_in_bytes": 6034
+    },
+    {
+      "_path": "help/orange3-imageanalytics/widgets/imageembedding.html",
+      "path_type": "hardlink",
+      "sha256": "acb44fb91cd555c88106c52e159c5c321a2dea324478ebd4757c796a999c012d",
+      "size_in_bytes": 11705
+    },
+    {
+      "_path": "help/orange3-imageanalytics/widgets/imagegrid.html",
+      "path_type": "hardlink",
+      "sha256": "53ec828d2be4ff9b3d74620e7a8366a378992c31319991acc5ed3f5b28c6d2a7",
+      "size_in_bytes": 7319
+    },
+    {
+      "_path": "help/orange3-imageanalytics/widgets/imageviewer.html",
+      "path_type": "hardlink",
+      "sha256": "0a1eec1e0cbf20118552f093881bcc378f06282ef327c8618f21d20149b3527e",
+      "size_in_bytes": 6858
+    },
+    {
+      "_path": "help/orange3-imageanalytics/widgets/importimages.html",
+      "path_type": "hardlink",
+      "sha256": "50ae1dd835afd37b9f1f2eb41e8ae21cbb365b51d70e7bc850585d246a36f194",
+      "size_in_bytes": 7310
+    },
+    {
+      "_path": "help/orange3-imageanalytics/widgets/saveimages.html",
+      "path_type": "hardlink",
+      "sha256": "8abef7eacd9f847f0153fa36d2019fbf39d4dd416eb55dbeb8b7d37c5a757a08",
+      "size_in_bytes": 7778
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0-py3.10-nspkg.pth",
+      "path_type": "hardlink",
+      "sha256": "c5e7864774e3768571745785e93fb34b065687a12dfbe118b8f5aeebb2f12ff7",
+      "size_in_bytes": 574
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/LICENSE.txt",
+      "path_type": "hardlink",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "size_in_bytes": 35147
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "7222e7bc5b7a716216af77c95e791774a0b0577a222351684b18a33596c474c7",
+      "size_in_bytes": 1773
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "4cb81d4ae58c2bb062b05093ae8c9712274628fdc9c0e225d61a6e755481bbd6",
+      "size_in_bytes": 20190
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "6d524d5b379e87cf0ae7de429d2a3fb9f0914ff28ba9fb0ba770fd6d5be4b584",
+      "size_in_bytes": 118
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "4ebb969f40f67594cde8bc9e4cb9b5c002a7a52192f104a98a757c71112a64ed",
+      "size_in_bytes": 232
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/namespace_packages.txt",
+      "path_type": "hardlink",
+      "sha256": "22eb7e2537d3d754991c79bbeff65eb330fba590d65dc4f07826efac9a6a0f24",
+      "size_in_bytes": 14
+    },
+    {
+      "_path": "site-packages/Orange3_ImageAnalytics-0.8.0.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "22eb7e2537d3d754991c79bbeff65eb330fba590d65dc4f07826efac9a6a0f24",
+      "size_in_bytes": 14
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/image_embedder.py",
+      "path_type": "hardlink",
+      "sha256": "3fbd05a846341957bdea4f204e81ea2e023b3ea8d1a597a517e3f5cd4c64c287",
+      "size_in_bytes": 11528
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/image_grid.py",
+      "path_type": "hardlink",
+      "sha256": "3e5d3f6035b555e1d06979ccc1c74a452cdb94fbc21d20acbde7cd44d9a2918d",
+      "size_in_bytes": 7313
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/import_images.py",
+      "path_type": "hardlink",
+      "sha256": "f66e9f87acf9a9817c35d4f55647487da6daf8580c500ceb992cd830abe04ef2",
+      "size_in_bytes": 7801
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/local_embedder.py",
+      "path_type": "hardlink",
+      "sha256": "c70c7d3178da1cf2f4970ceaf2e297ec67973d483fef827dae9691adb48d72e9",
+      "size_in_bytes": 2232
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/server_embedder.py",
+      "path_type": "hardlink",
+      "sha256": "f8803f8352c306ed3a275e832ab1b8a34e0d2037cc3e53f369f8af3e190b6e22",
+      "size_in_bytes": 817
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_image_embedder.py",
+      "path_type": "hardlink",
+      "sha256": "338dff48d4e8427899380959d975df49d7f7043c01bf042dee9bb1f86cd43928",
+      "size_in_bytes": 10974
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_image_grid.py",
+      "path_type": "hardlink",
+      "sha256": "cf21d0c94c9470722dc4cac9835cc718505c698f98be5a6793d3a0c8dc3a070a",
+      "size_in_bytes": 1102
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_0.jpg",
+      "path_type": "hardlink",
+      "sha256": "43dc0fdb4e92cae17abdecf8d61e4afee0136925df669ddb8f328955ab1002f6",
+      "size_in_bytes": 5953
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_1.tiff",
+      "path_type": "hardlink",
+      "sha256": "3f590b52279fb59b81906f1e928ae713a5357b1afc1a2017a103adb563fb4494",
+      "size_in_bytes": 786572
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.bmp",
+      "path_type": "hardlink",
+      "sha256": "c0621943e5357a8fb5333506118cd5476fd6f0afb7d1f5aa7ba2fa9139255fd4",
+      "size_in_bytes": 124610
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.gif",
+      "path_type": "hardlink",
+      "sha256": "81b1e4fea998722ae89b4a29db313e6efbe3acd0b73007ece644e929e59b8cf8",
+      "size_in_bytes": 24724
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.jpeg",
+      "path_type": "hardlink",
+      "sha256": "4c0ca0a2a8d5fd3d6a3e15026ce20205516e96c773b77d08dac51003457e9924",
+      "size_in_bytes": 9745
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.jpg",
+      "path_type": "hardlink",
+      "sha256": "4c0ca0a2a8d5fd3d6a3e15026ce20205516e96c773b77d08dac51003457e9924",
+      "size_in_bytes": 9745
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.pbm",
+      "path_type": "hardlink",
+      "sha256": "1c8af086828cc24cd3c71553779adc35a02ba1cbe9c2707848a0f4869d353543",
+      "size_in_bytes": 4015
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.pgm",
+      "path_type": "hardlink",
+      "sha256": "91e6fc337f8630f7b4e0495def947a566a01b168ee443fec8a523bf07722e4c5",
+      "size_in_bytes": 31137
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.png",
+      "path_type": "hardlink",
+      "sha256": "75d8aec90ba0d7054ba8907d1f51d2e508e67b82f39177b9452b7645599121cc",
+      "size_in_bytes": 16839
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.pnm",
+      "path_type": "hardlink",
+      "sha256": "91e6fc337f8630f7b4e0495def947a566a01b168ee443fec8a523bf07722e4c5",
+      "size_in_bytes": 31137
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.ppm",
+      "path_type": "hardlink",
+      "sha256": "9bfe1e903c18e07bf8f2a2fad0b8c6e0ed272b294a88032776ed550cfe70ed20",
+      "size_in_bytes": 93381
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.tif",
+      "path_type": "hardlink",
+      "sha256": "bbc00ccf360878d4b3f255b9bf2b3bec6fa56c99a0e5960bc01e1b880320232f",
+      "size_in_bytes": 31292
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.tiff",
+      "path_type": "hardlink",
+      "sha256": "bbc00ccf360878d4b3f255b9bf2b3bec6fa56c99a0e5960bc01e1b880320232f",
+      "size_in_bytes": 31292
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.xbm",
+      "path_type": "hardlink",
+      "sha256": "96fc7522a30bc7f0293f5d7f7e08827fd9267656a1ea6d22fcf310d490765aed",
+      "size_in_bytes": 25136
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_2.xpm",
+      "path_type": "hardlink",
+      "sha256": "60a2cdab46b5e33aee87141971eb0135bf46a488242dcc8f4a12c5b5220cc043",
+      "size_in_bytes": 67078
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_images/example_image_3.svg",
+      "path_type": "hardlink",
+      "sha256": "cc2326f24c7b46649a8ae8774625d71f20569bf5ca9f8b940d499228a20ba77e",
+      "size_in_bytes": 1539
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/tests/test_import_images.py",
+      "path_type": "hardlink",
+      "sha256": "c6ae4680453aa43d26378e135e255ac7db7e1f659589e86c1ab2e753401e88d0",
+      "size_in_bytes": 1644
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/utils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/utils/embedder_utils.py",
+      "path_type": "hardlink",
+      "sha256": "f3177fb1a0f986480674318c6b3d5ce1f185264ed29af6c209b316fc913b5f7d",
+      "size_in_bytes": 3000
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/utils/image_utils.py",
+      "path_type": "hardlink",
+      "sha256": "854bb31e307c43f493aa1856f21d9af49894dda855d43468248f95e6fe35dd22",
+      "size_in_bytes": 2688
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/utils/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/utils/tests/test_embedder_utils.py",
+      "path_type": "hardlink",
+      "sha256": "006c3306c335a1b4394ac75aedddfe3e1408d1b805ee2c2cde73263478f01c49",
+      "size_in_bytes": 4180
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/utils/tests/test_image_utils.py",
+      "path_type": "hardlink",
+      "sha256": "a4ce344e4e38e49cf2b6faf495b2786cff22e3f1ac7869f0e76df40c288ce48d",
+      "size_in_bytes": 4521
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b7e9527d5b9e75a83e1bcdcd816b5fdce9f950160419f08e33c744f2ea5ee0e2",
+      "size_in_bytes": 1041
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/icons/Category-ImageAnalytics.svg",
+      "path_type": "hardlink",
+      "sha256": "a4d2f99a8bdfd4942719a577bedef029aca2639a8df65aab524a291b94f4cc47",
+      "size_in_bytes": 4830
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/icons/ImageEmbedding.svg",
+      "path_type": "hardlink",
+      "sha256": "ceb80ff6ff81926f774d468b415d114400a91e38e023f12a3cd629ffb68a97b0",
+      "size_in_bytes": 4097
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/icons/ImageGrid.svg",
+      "path_type": "hardlink",
+      "sha256": "14b798d9e93e41bfbaac0dac8884128d3f9e53369a6ad26b168bb72900046a48",
+      "size_in_bytes": 1553
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/icons/ImageViewer.svg",
+      "path_type": "hardlink",
+      "sha256": "c770835b64c6d7eea8ce087eae08f8c11ace87418d6ff1a7699e0aec791a2a27",
+      "size_in_bytes": 4831
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/icons/ImportImages.svg",
+      "path_type": "hardlink",
+      "sha256": "cde7e68ec1f226b4e054a82f508f83cadd3ba09826bcf8957a3edbcac6e48cde",
+      "size_in_bytes": 5083
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/icons/SaveImages.svg",
+      "path_type": "hardlink",
+      "sha256": "794d1299fc1d5669e4cdbd9e871b07167890ddfaba302b238b308782681387c9",
+      "size_in_bytes": 1637
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/owimageembedding.py",
+      "path_type": "hardlink",
+      "sha256": "b1c102c17ae04da823c7b93811fd812dc82736d6252d41ee09853492fe67c4e5",
+      "size_in_bytes": 10979
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/owimagegrid.py",
+      "path_type": "hardlink",
+      "sha256": "6597200a58a7bb152e3fa7e70248ecfe5978583b68656da91b06ccb936deb4d8",
+      "size_in_bytes": 45697
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/owimageimport.py",
+      "path_type": "hardlink",
+      "sha256": "2bb820c3cc1c4eccdfbccd0b0e85eba6b74b7a42e9ac41b7b7f232d5b4f306a8",
+      "size_in_bytes": 20884
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/owimageviewer.py",
+      "path_type": "hardlink",
+      "sha256": "7e4d5826c2312bbe509f733d68c2bb43f6ba6b60deb54fec3717128d752aa609",
+      "size_in_bytes": 26577
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/owsaveimages.py",
+      "path_type": "hardlink",
+      "sha256": "ae7625316c93427f6ba49460290ca5fb094f04a85216852cb0f35a833259a95a",
+      "size_in_bytes": 12416
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_images/afternoon-4175917_640.jpg",
+      "path_type": "hardlink",
+      "sha256": "77722b9efe423139fb775f5a9008dc337dc8e5ae583f7b518489ea7215209af7",
+      "size_in_bytes": 91156
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_images/atomium-4179270_640.jpg",
+      "path_type": "hardlink",
+      "sha256": "38112124351f46cf6a94948477082434455befe21a61d3c734cd582c29b74b27",
+      "size_in_bytes": 71036
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_images/kittens-4020199_640.jpg",
+      "path_type": "hardlink",
+      "sha256": "423cb460efda5b43c6e4acdf80f47a55f0cbd5fee9b7ca2e4a27083a1c6508a5",
+      "size_in_bytes": 75496
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_images/landscape-2130524_640.jpg",
+      "path_type": "hardlink",
+      "sha256": "2a440bbf78916472440e7e812b4a62c81eed6fe0bbb757d6a90b8eaaaa1f7ce7",
+      "size_in_bytes": 76767
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_owimageembedding.py",
+      "path_type": "hardlink",
+      "sha256": "f90f1fde71d477662a2678093ea2c2d6d709e50fe8114c81148195d32e3a50ed",
+      "size_in_bytes": 6888
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_owimagegrid.py",
+      "path_type": "hardlink",
+      "sha256": "b36c3896ed1ee12c6a45f3197b49a81aa6cf241f0dc382c8e8049f601b35d09d",
+      "size_in_bytes": 7007
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_owimageimport.py",
+      "path_type": "hardlink",
+      "sha256": "3805e21c86cef8d3b16b6f66d72dc8f3e6000401665f2b6487f2b5d8de38a373",
+      "size_in_bytes": 2887
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_owimageviewer.py",
+      "path_type": "hardlink",
+      "sha256": "cc84a350426fbbc28a60062458f2d817a48d29ad1226f0f1c291e6b3c78eb7b7",
+      "size_in_bytes": 1704
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/test_owsaveimages.py",
+      "path_type": "hardlink",
+      "sha256": "587b64876f1a6ff17ded6c79c35bc5a0a0b8527fa303eadb7199d1676063fd90",
+      "size_in_bytes": 12851
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/tests/utils.py",
+      "path_type": "hardlink",
+      "sha256": "de53e26e82cda2a3b183c1c5f2bb885450d9b77651f3ad741b2d89e90eb7d432",
+      "size_in_bytes": 534
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/utils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/utils/imagepreview.py",
+      "path_type": "hardlink",
+      "sha256": "95ee8195e7e2f7cde318a0fc23da3385ed056302a2ef5830ce6b591d77791548",
+      "size_in_bytes": 4027
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/utils/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/utils/tests/test_imagepreview.py",
+      "path_type": "hardlink",
+      "sha256": "7fd75f34e03c67f5e84243d545d802b84d2568d404d486e6540462b757c897e3",
+      "size_in_bytes": 515
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/utils/tests/test_thumnbnailview.py",
+      "path_type": "hardlink",
+      "sha256": "9e7855e06de763daaed94a34f7d68bc3dde1cba1271f661832bac84fbe3288dd",
+      "size_in_bytes": 1361
+    },
+    {
+      "_path": "site-packages/orangecontrib/imageanalytics/widgets/utils/thumbnailview.py",
+      "path_type": "hardlink",
+      "sha256": "7c69575420f07ec01dd87dc7f5067a3a6ec320cdf9e14df6940ee2aa46e91965",
+      "size_in_bytes": 7998
+    }
+  ],
+  "paths_version": 1
+}

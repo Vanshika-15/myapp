@@ -1,0 +1,55 @@
+{% set name = "Orange3-ImageAnalytics" %}
+{% set version = "0.8.0" %}
+
+package:
+  name: {{ name|lower }}
+  version: {{ version }}
+
+source:
+  fn: {{ name }}-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: 3e033788375f43cb38a79cfc3087fc97321098c35f5bb6235bc01bd96c424ef8
+
+build:
+  number: 0
+  noarch: python
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
+
+requirements:
+  host:
+    - python >=3.7
+    - setuptools
+    - pip
+  run:
+    - python >=3.7
+    - numpy >=1.16.*
+    - orange-widget-base
+    - orange3 >=3.31.1
+    - pillow >=6.2.0
+    - requests
+    - cachecontrol
+    - lockfile
+    - ndf >=0.1.4
+    - scipy
+
+test:
+  imports:
+    - orangecontrib.imageanalytics
+
+about:
+  home: https://github.com/biolab/orange3-imageanalytics
+  license: GPL-3.0-only
+  license_family: GPL
+  license_file: LICENSE.txt
+  summary: Orange3 add-on for dealing with image related tasks
+
+  description: |
+    Orange3 Image Analytics is an add-on for the Orange3 data mining suite.
+    It provides extensions for importing/creating labeled image data sets and
+    embedding them through a variety of pre-trained deep neural networks.
+  doc_url: http://orange3-imageanalytics.readthedocs.io
+  dev_url: https://github.com/biolab/orange3-imageanalytics
+
+extra:
+  recipe-maintainers:
+    - primozgodec

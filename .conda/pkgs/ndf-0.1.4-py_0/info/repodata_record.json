@@ -1,0 +1,25 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.13.0",
+    "python >=3"
+  ],
+  "features": "",
+  "fn": "ndf-0.1.4-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "c2a0a71a220216df45c904610ad824af",
+  "name": "ndf",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "0328e9ccdc8fba59d14e1c7ee5b4daee35ac9a4cfee49662a19f5dc81fe9a885",
+  "size": 4827303,
+  "subdir": "noarch",
+  "timestamp": 1553136560869,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ndf-0.1.4-py_0.tar.bz2",
+  "version": "0.1.4"
+}
